@@ -16,5 +16,11 @@ click on todo tab to view the information
 <img width="1313" alt="Screenshot 2023-03-06 at 4 28 28 PM" src="https://user-images.githubusercontent.com/103040431/223091760-ae437168-a5da-44aa-9fe8-d1c2a903e47d.png">
 we can redirect to profilepage from any of the tabs
 
+Running the application
+----------------------
+1.clone the application into local
+2. Run npm install command to download the libraries or node modules
+3.give command "npm start" in the reactproject folder to run the application
+
 Hope you liked it!
 Thank you .
